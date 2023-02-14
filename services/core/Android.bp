@@ -204,7 +204,11 @@ java_library_static {
         "com_android_wm_shell_flags_lib",
         "com.android.server.utils_aconfig-java",
         "service-jobscheduler-deviceidle.flags-aconfig-java",
+<<<<<<< HEAD
         "vendor.aospa.biometrics.face",
+=======
+        "vendor.aac.hardware.richtap.vibrator",
+>>>>>>> d8eb1023e3937 (base: Add minimal support for Richtap vibrations)
     ],
     javac_shard_size: 50,
     javacflags: [
